@@ -1,0 +1,107 @@
+{
+  "Date": "2014-07-20T00:00:00-05:00",
+  "EpochDate": 1405832400,
+  "Actuals": {
+    "Temperatures": {
+      "Maximum": {
+        "Metric": {
+          "Value": 31.1,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 88.0,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Minimum": {
+        "Metric": {
+          "Value": 18.3,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 65.0,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Average": {
+        "Metric": {
+          "Value": 24.7,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 76.0,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      }
+    },
+    "DegreeDays": {
+      "Heating": {
+        "Metric": {
+          "Value": 0.0,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 0.0,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Cooling": {
+        "Metric": {
+          "Value": 6.0,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Imperial": {
+          "Value": 11.0,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      }
+    },
+    "Precipitation": {
+      "Metric": {
+        "Value": 0.0,
+        "Unit": "mm",
+        "UnitType": 3
+      },
+      "Imperial": {
+        "Value": 0.0,
+        "Unit": "in",
+        "UnitType": 1
+      }
+    },
+    "Snowfall": {
+      "Metric": {
+        "Value": 0.0,
+        "Unit": "cm",
+        "UnitType": 4
+      },
+      "Imperial": {
+        "Value": 0.0,
+        "Unit": "in",
+        "UnitType": 1
+      }
+    },
+    "SnowDepth": {
+      "Metric": {
+        "Value": 0.0,
+        "Unit": "cm",
+        "UnitType": 4
+      },
+      "Imperial": {
+        "Value": 0.0,
+        "Unit": "in",
+        "UnitType": 1
+      }
+    }
+  }
+}
+
